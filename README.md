@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# COMPUTER ARCHITECTURE
 Erwin and Parmanand
 
 -----
@@ -37,7 +37,7 @@ Standards in the Unit: In addition to the IB Computer Science mandated standards
 ---
 
 ### Lessons
-Total lenght: 2 Weeks
+Total lengtht: 2 Weeks
 
 
 ### Assesments
