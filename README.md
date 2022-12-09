@@ -27,7 +27,26 @@ Standards in the Unit: In addition to the IB Computer Science mandated standards
 
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+
+Teaching Framework required by NYC Brooklyn North, District 14 Superintendency - lessons must be planned to be small-group student-centered and direct teaching is discouraged. The 5-30-10 model is the recommended planning guide: 5 minutes of teacher-talk to introduce the lesson and lesson routines, 30-minutes of student-centered investigation, and a 10-minute lesson-recap at the end of the class that is intended to summarize the lesson and assess the overall learning level by the class. 
+
+IB requires all lessons to have a Theory of Knowledge component, that all assessments must be concept-based and  involve writing reflections on every lesson. The IB assessment framework prohibits the use of multiple-choice type assessment.
+
+In most of the lessons planned for HS for EBT, the Harkness Method of class discussion is the de-facto standard.
+Approaches to Learning Components of IB Courses
+
+Andragogy v Pedagogy - andragogy = teaching to adult learners (16-19 year old DP students)
+Adult learners prefer to be responsible for their own learning and involved in the planning and evaluation of their instruction
+Can use their own life experience as a rich resource for learning
+Prefer learning that is problem centred rather than content oriented
+Respond better to internal, rather than external, motivators
+Need to understand the reason for, and importance of, all their learning
+Research Component
+Communication Component
+
+Harkness Teaching Protocol - problem based learning protocol that emphasizes independent student work and discussion. The teacher is a facilitator and provides general questions for research and discussion by the students. Discussion and inquiry will be student-centered and lessons will be concept based.
+
+
 
 ---
 
