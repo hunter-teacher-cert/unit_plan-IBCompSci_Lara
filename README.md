@@ -56,7 +56,7 @@ Harkness Teaching Protocol - problem based learning protocol that emphasizes ind
 ---
 
 ### Lessons
-Total lengtht: 2 Weeks
+Total length: 2 Weeks
 
 
 ### Assesments
