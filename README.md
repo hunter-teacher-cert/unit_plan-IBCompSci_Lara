@@ -58,13 +58,63 @@ Consequently, lessons must have research components and communication components
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
+
+**Lesson 01 –  CPU Architecture**
+Stephen Cass paper- https://spectrum.ieee.org/chip-hall-of-fame-intel-4004-microprocessor
+Paul Alcorn paper (https://www.tomshardware.com/features/amd-vs-intel-cpus)
+
+**Lesson 02 – Cache Memory**
+Techopedia:Cache Memory https://www.techopedia.com/definition/6307/cache-memory 
+ How can caching explain automaticity? 
+https://link.springer.com/article/10.3758/s13423-022-02191-0?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata
+Caching for Beginners 
+https://www.geeksforgeeks.org/caching-system-design-concept-for-beginners/
+
+System Design Basics: Getting Started with Caching
+https://towardsdatascience.com/system-design-basics-getting-started-with-caching-c2c3e934064a
+https://www.enjoyalgorithms.com/blog/caching-system-design-concept
+https://www.pcguide.com/hdd/guide/hard-drive-cache/
+
+**Lesson 03 – Machine Instruction Cycle**
+Research/Reading Task Topic: Machine Cyle Reading https://runestone.academy/ns/books/published/welcomecs/ComputerArchitecture/MachineCycle.html
+
+**Lesson 04 – Secondary Memory**
+https://aws.amazon.com/products/storage/persistent-file-storage-for-modern-apps/ 
+https://www.techtarget.com/searchstorage/definition/Persistent-storage
+https://www.technology.org/2017/05/09/microsofts-underwater-servers-host-sea-creatures-and-data/
+
+**Lesson 05 – Operating Systems**
+https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading07.htm#:~:text=An%20operating%20system%20has%20three,provide%20services%20for%20applications%20software.
+
+https://www.toppr.com/guides/computer-science/computer-fundamentals/operating-system/functions-of-operating-system/
+
+https://www.geeksforgeeks.org/functions-of-operating-system/
+
+“Why DOS was (and is) a Thing”
+
+https://youtu.be/3E5Hog5OnIM
+
+**Lesson 06 – Application Systems**
+ENIAC
+https://youtu.be/nITFvyBI72Y
+
+**Lesson 07 – Number Systems and Binary Representations**
+http://www.hexinvaders.com/
+![image](https://user-images.githubusercontent.com/75814707/206884498-a5f83414-3558-405c-890e-d897a7fbeb02.png)
+
 
 ---
 
 ### Lessons
-Total length: 2 Weeks
 
+CPU Architecture
+Cache Memory
+Machine Instruction
+Secondary Memory
+Operating Systems
+Application Systems
+Number Representation
+Logic Gates
 
 ### Assesments
 The summative assessment for this unit is an end of unit project that is open-ended task that asks students to produce evidence of synthesis of all the topics in the unit. 
