@@ -14,9 +14,9 @@ The unit title is Computer Organization and is subdivided into
 * Simple logic gates,
 
 ### Motivation for Unit
-This is a lesson that may be used in _IB Digital Societies_ and _IB Computer Science_.
-A unique component of IB classes is the requirement that all lessons must have elements of a core course called _Theory of Knowledge_ and _Approaches to Learning_.
-In simplest terms, every lesson must ask require the student to write and reflect on the question of "how is this knowledge?" and "how do you know this is knowledge". The ATL component requires research and communication in every unit and lesson if possible.
+This is a lesson that may be used in __IB Digital Societies__ and __IB Computer Science__.
+A unique component of IB classes is the requirement that all lessons must have elements of a core course called **Theory of Knowledge** and **Approaches to Learning**.
+In simplest terms, every lesson must ask require the student to write and reflect on the question of _"how is this knowledge?"_ and _"how do you know this is knowledge"_. The ATL component requires research and communication in every unit and lesson if possible.
 
 
 ---
@@ -39,19 +39,19 @@ Teaching Framework required by NYC Brooklyn North, District 14 Superintendency -
 
 IB requires all lessons to have a Theory of Knowledge component, that all assessments must be concept-based and  involve writing reflections on every lesson. The IB assessment framework prohibits the use of multiple-choice type assessment.
 
-In most of the lessons planned for HS for EBT, the Harkness Method of class discussion is the de-facto standard.
+In most of the lessons planned for HS for EBT, the **Harkness Method** of class discussion is the de-facto standard.
 Approaches to Learning Components of IB Courses
 
-Andragogy v Pedagogy - andragogy = teaching to adult learners (16-19 year old DP students)
-Adult learners prefer to be responsible for their own learning and involved in the planning and evaluation of their instruction
-Can use their own life experience as a rich resource for learning
-Prefer learning that is problem centred rather than content oriented
-Respond better to internal, rather than external, motivators
-Need to understand the reason for, and importance of, all their learning
-Research Component
-Communication Component
+**Andragogy v Pedagogy** - andragogy = teaching to adult learners (16-19 year old DP students)
+IB DP students are considered emerging or early adults and the teaching approach is more andragogical than pedagogical.
 
-Harkness Teaching Protocol - problem based learning protocol that emphasizes independent student work and discussion. The teacher is a facilitator and provides general questions for research and discussion by the students. Discussion and inquiry will be student-centered and lessons will be concept based.
+Adult learners prefer to be responsible for their own learning and involved in the planning and evaluation of their instruction.
+They can use their own life experience as a rich resource for learning; they prefer learning that is problem-centered rather than content-oriented.
+They respond better to internal, rather than external, motivator; they need to understand the reason for, and importance, of all their learning.
+Consequently, lessons must have research components and communication components.
+
+
+**Harkness Teaching Protocol** - problem based learning protocol that emphasizes independent student work and discussion. The teacher is a facilitator and provides general questions for research and discussion by the students. Discussion and inquiry will be student-centered and lessons will be concept based.
 
 
 
