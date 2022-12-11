@@ -114,7 +114,7 @@ http://www.hexinvaders.com/
 5. Operating Systems
 6. Application Systems
 7. Number Representation
-8. Logic Gates ( 3 parts )
+8. Logic Gates ( 3 parts  A, B, C)
 
 ### Assesments
 The summative assessment for this unit is an end of unit project that is open-ended task that asks students to produce evidence of synthesis of all the topics in the unit. 
