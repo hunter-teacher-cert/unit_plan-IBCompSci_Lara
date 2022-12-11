@@ -5,7 +5,13 @@ Erwin and Parmanand
 -----
 
 ### General Overview
-Unit Description: Computer Organization is Topic 2 of the IB Computer Science course and is recommended to be taught over a minimum of 6 hours or 8-45 minute lessons and assessed over 2 lessons. The unit title is Computer Organization and is subdivided into Computer Architecture, Secondary Memory, Operating Systems and application systems, Binary representation, and Simple logic gates,
+Unit Description: Computer Organization is Topic 2 of the IB Computer Science course and is recommended to be taught over a minimum of 6 hours or 9-45 minute lessons and assessed over 2 lessons. 
+The unit title is Computer Organization and is subdivided into 
+* Computer Architecture
+* Secondary Memory
+* Operating Systems and application systems
+* *Binary representation
+* *Simple logic gates,
 
 ### Motivation for Unit
 This is a lesson that may be used in IB Digital Societies and IB Computer Science.
