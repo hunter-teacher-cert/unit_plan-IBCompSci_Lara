@@ -119,4 +119,5 @@ Logic Gates
 ### Assesments
 The summative assessment for this unit is an end of unit project that is open-ended task that asks students to produce evidence of synthesis of all the topics in the unit. 
 Additionally, students are required to answer 4-5 questions that are taken from previous specimen questions from the IB exam, taken on the 2nd year of the course.
+https://github.com/hunter-teacher-cert/unit_plan-IBCompSci_Lara/blob/main/resources/d_3_itgsx_spp_2202_2a_e.pdf
 
