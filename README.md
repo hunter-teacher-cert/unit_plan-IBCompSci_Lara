@@ -14,8 +14,8 @@ The unit title is Computer Organization and is subdivided into
 * Simple logic gates,
 
 ### Motivation for Unit
-This is a lesson that may be used in IB Digital Societies and IB Computer Science.
-A unique component of IB classes is the requirement that all lessons must have elements of a core course called Theory of Knowledge and Approaches to Learning.
+This is a lesson that may be used in _IB Digital Societies_ and _IB Computer Science_.
+A unique component of IB classes is the requirement that all lessons must have elements of a core course called _Theory of Knowledge_ and _Approaches to Learning_.
 In simplest terms, every lesson must ask require the student to write and reflect on the question of "how is this knowledge?" and "how do you know this is knowledge". The ATL component requires research and communication in every unit and lesson if possible.
 
 
