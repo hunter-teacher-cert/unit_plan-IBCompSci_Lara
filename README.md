@@ -107,14 +107,14 @@ http://www.hexinvaders.com/
 
 ### Lessons
 
-CPU Architecture
-Cache Memory
-Machine Instruction
-Secondary Memory
-Operating Systems
-Application Systems
-Number Representation
-Logic Gates
+1. CPU Architecture
+2. Cache Memory
+3. Machine Instruction
+4. Secondary Memory
+5. Operating Systems
+6. Application Systems
+7. Number Representation
+8. Logic Gates ( 3 parts )
 
 ### Assesments
 The summative assessment for this unit is an end of unit project that is open-ended task that asks students to produce evidence of synthesis of all the topics in the unit. 
