@@ -10,8 +10,8 @@ The unit title is Computer Organization and is subdivided into
 * Computer Architecture
 * Secondary Memory
 * Operating Systems and application systems
-* *Binary representation
-* *Simple logic gates,
+* Binary representation
+* Simple logic gates,
 
 ### Motivation for Unit
 This is a lesson that may be used in IB Digital Societies and IB Computer Science.
